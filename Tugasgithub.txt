@@ -1,0 +1,4 @@
+Tugas github sebagai berikut :
+Buat new repository dengan access public
+Buatlah 1 file didalam repository tersebut 
+Buat minimal 3 branch 
